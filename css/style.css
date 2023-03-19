@@ -26,6 +26,7 @@ h3
     color:#11999E;
     font-size: 1.25rem;
 }
+
 a{
     color:#11999E;
     font-size: 100%;
@@ -94,7 +95,12 @@ hr{
     margin:3.125rem auto;
     text-align:left;
 }
-
+.course-row{
+    width:50%;
+    margin:3.125rem auto;
+    text-align:left;
+    margin-top: 0;
+}
 .skill1-image{
     width:15%;
     float:left;
@@ -148,6 +154,11 @@ hr{
   .li1{
     line-height: 2;
     margin-left: 0;
+  }
+
+  .li2{
+    line-height: 2;
+    margin-left: 200px;
   }
 
 .h31{

@@ -2,14 +2,12 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather',serif;
-    color:#40514E;
-    background-color: black;
+    color:#ffffff;
+    background-color: #000000;
 }
 .profile{
-    /* margin: 10px auto; */
     height: 256px;
     width:auto;
-    /* padding: 100px; */
 }
 
 
@@ -59,7 +57,7 @@ span{
 
 p{
     line-height: 2;
-    color: white;
+    color: #ffffff;
 }
 
 hr{
